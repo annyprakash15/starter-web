@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 This is simple website
-
+i have done chnages here
 ##Introduction
 this  is intor
 
