@@ -14,3 +14,6 @@ Sample website with plenty of files for demos
 this is contri
 
 aded  here
+
+##copyright
+this is copyright
