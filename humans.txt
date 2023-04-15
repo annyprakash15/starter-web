@@ -8,6 +8,7 @@
 # THANKS
 
     <name>
+	hers is my name
 all my student here
 # TECHNOLOGY COLOPHON
 
